@@ -1,0 +1,47 @@
+    <br><br><br><br>
+    <div class="containeralooma" id="contact">
+        <section class="boxalooma">
+        <div class="row">
+            <div class="col-12">
+                <h2 class="template4 h2alooma" style="margin-left: 20px; font-size: larger; font-family: Verdana, Geneva, Tahoma, sans-serif;">Frequently Asked Questions</h2>
+                <h4 class="template4 palooma" style="font-size:medium;">1. What can I not put in a dumpster?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You cannot dispose of hazardous materials in a roll off dumpster in #State. This includes paint, asbestos, pesticides, motor oil, batteries, and tires. These items require specialized disposal methods to protect the environment</p>
+                <h4 class="template4 palooma" style="font-size:large;">2. How high can I fill the container?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Debris must be level with the top rail of the trash container rental around #State. Overloading the bin creates safety hazards for the driver and other motorists, and we cannot legally haul a customized load.</p>
+                <h4 class="template4 palooma" style="font-size:large;">3. Do I need to be home for delivery?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">You typically do not need to be present for the drop-off of your garbage dumpster rental near #State. However, please ensure the delivery area is clear of cars and obstacles, and provide specific placement instructions when booking.</p>
+                <h4 class="template4 palooma" style="font-size:large;">4. What size do I need for a roof replacement?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">For most standard residential roof replacements, a 20 yard dumpster rental close to #State is sufficient. For larger homes or multiple layers of shingles, a 30 yd dumpster might be necessary.</p>
+                <h4 class="template4 palooma" style="font-size:large;">5. Is there a weight limit?
+                </h4>
+                <p style="font-family: Verdana, Geneva, Tahoma, sans-serif;">Yes, each container has a weight limit measured in tons. Exceeding this limit will result in overage charges. We help you estimate the weight when you order a dumpster near me in #State.</p>
+                <div class="callalooma mx-auto"><a href="tel:203-547-7583">Click Here To Call Us (203) 547-7583</a></div>
+            </div>
+        </div>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">#State Insights: Population,<br> Zip Codes, Influence, and Service Areas</h2>
+        <p>aloomaidcontentscity</p>
+        <p style="color:black;">Zip Codes in #State that we also serve: <i>aloomaidzip</i></p>
+        </section>
+    </div>
+
+    <br><br><br><br>
+    <div class="containeralooma" style="background-color: transparent; width: 100%;">
+        <section class="boxalooma" style="text-align: center;">
+        <h2 class="heading-with-line template4 h2alooma">Cities Close To #State That We Also Serve</h2>
+        <div class="row">
+            aloomaidcitycloseto
+        </div>
+        <br><br>
+        aloomaidembeddedmap
+        </section>
+    </div>
